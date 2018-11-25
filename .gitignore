@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Plugins/ExternalService.MSWeather/bin
+/Plugins/ExternalService.MSWeather/obj
+/Solutions/.vs/ExternalService.MSWeather/v15
