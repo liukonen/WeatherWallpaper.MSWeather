@@ -1,4 +1,4 @@
-# WeatherWallpaper.Yahoo
+# WeatherWallpaper.MSWeather
 MSN Plugin for Weather Wallpaper
 
 Calls Yahoo MSN API in order to get Weather
