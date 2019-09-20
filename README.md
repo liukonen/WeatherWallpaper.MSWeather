@@ -1,4 +1,5 @@
 # WeatherWallpaper.MSWeather
+## Deprecated!!!!  API appears to be no longer working
 MSN Plugin for Weather Wallpaper
 
 Calls  MSN API in order to get Weather
