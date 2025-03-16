@@ -1,4 +1,4 @@
-# WeatherWallpaper.MSWeather
+#DEPRECATED  WeatherWallpaper.MSWeather
 
 MSN Plugin for Weather Wallpaper
 
